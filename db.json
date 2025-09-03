@@ -1,0 +1,60 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "title": "",
+      "description": "",
+      "category": "sports",
+      "videoUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "description": "",
+      "category": "sports",
+      "videoUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "description": "",
+      "category": "sports",
+      "videoUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "description": "",
+      "category": "sports",
+      "videoUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "description": "",
+      "category": "sports",
+      "videoUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "description": "",
+      "category": "sports",
+      "videoUrl": "",
+      "imageUrl": ""
+    },
+    {
+      "id": 7,
+      "title": "",
+      "description": "",
+      "category": "sports",
+      "videoUrl": "",
+      "imageUrl": ""
+    }
+  ]
+}
