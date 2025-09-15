@@ -45,6 +45,13 @@
           "supportsBackgroundPlayback": true,
           "supportsPictureInPicture": true
         }
+      ],
+      [
+        "react-native-google-mobile-ads",
+        {
+          "iosAppId": "ca-app-pub-6322248687245904~2350387935",
+          "androidAppId": "ca-app-pub-6322248687245904~5376706254"
+        }
       ]
     ],
     "extra": {
