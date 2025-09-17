@@ -15,6 +15,7 @@ function RootStack() {
 
 
       <Stack.Navigator
+        id={undefined}
         screenOptions={{
           headerStyle: {
             backgroundColor: '#222'

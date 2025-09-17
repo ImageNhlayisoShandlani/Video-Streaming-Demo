@@ -9,9 +9,8 @@ import mobileAds, { AdEventType, BannerAd, BannerAdSize, InterstitialAd, TestIds
 
 
 
-export default function Home({ route }) {
+export default function Home() {
     const navigation = useNavigation();
-    const { catId } = route.params;
     const videosToPlay = [
         {
             videoId: 1,
@@ -116,7 +115,7 @@ export default function Home({ route }) {
             <View style={{ flex: 1 }}>
                 <ScrollView >
                     <View style={{width: Dimensions.get('screen').width, alignItems: 'center', justifyContent: 'center', marginVertical: 20}}>
-                    <BannerAd unitId={TestIds.BANNER} size={'320x50'} />
+                    <BannerAd unitId={TestIds.BANNER} size={'300x200'} />
                     </View>
                     <View style={{ alignItems: 'center', flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-evenly' }}>
 
